@@ -1,6 +1,6 @@
 <!---->
 <div align="center">
-<img src="./ReadMeFiles/app.jpg" align="center">
+<img src="./ReadMeFiles/app.png" align="center">
 </div>
 
 # UberEats - Responsive App Landing Page
